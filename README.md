@@ -1,4 +1,4 @@
-## Helloooo there :sparkles:
+## Hello there! I'm Barbara :sparkles:
 
 I'm a software engineer (former accountant) with a passion for programming, creating, baking and Muay Thai. I enjoy the process of building and bettering things and seeing the final outcome. 
 
