@@ -2,6 +2,12 @@
 
 I'm a software engineer (former accountant) with a passion for programming, creating, baking and Muay Thai. I enjoy the process of building and bettering things and seeing the final outcome. 
 
+
+[![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=barbara-liao&theme=calm&hide=stars,contribs&show_icons=true)](https://github.com/barbara-liao/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-liao&theme=calm&layout=compact)](https://github.com/barbara-liao/github-readme-stats)
+
+
 ## :computer: Skills
 
 I know JavaScript (ES5 & ES6), React.js, PostgreSQL, Node.js, HTML5, CSS3 and more and am always looking to expand my skill set.
@@ -9,10 +15,6 @@ I know JavaScript (ES5 & ES6), React.js, PostgreSQL, Node.js, HTML5, CSS3 and mo
 ## :love_letter: Let's Connect
 
 Connect with me on LinkedIn [here](www.linkedin.com/in/barbara-liao)!
-
-[![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=barbara-liao&theme=calm&hide=stars,contribs&show_icons=true)](https://github.com/barbara-liao/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-liao&theme=calm&layout=compact)](https://github.com/barbara-liao/github-readme-stats)
 
 
 <!--
