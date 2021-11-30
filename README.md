@@ -2,10 +2,12 @@
 
 I'm a software engineer (former accountant) with a passion for programming, creating, baking and Muay Thai. I enjoy the process of building and bettering things and seeing the final outcome. 
 
-## :computer: Skills
-I know JavaScript (ES5 & ES6), React.js, PostgreSQL, Node.js, HTML5, CSS3 and more and amalways looking to expand my skillset.
+### :computer: Skills
 
-## :love_letter: Let's Connect
+I know JavaScript (ES5 & ES6), React.js, PostgreSQL, Node.js, HTML5, CSS3 and more and am always looking to expand my skillset.
+
+### :love_letter: Let's Connect
+
 Connect with me on LinkedIn [here](www.linkedin.com/in/barbara-liao)!
 
 <!--
