@@ -3,6 +3,7 @@
 I'm a software engineer (former accountant) with a passion for programming, creating, baking and Muay Thai. I enjoy the process of building and bettering things and seeing the final outcome. 
 
 
+
 [![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=barbara-liao&theme=calm&hide=stars,contribs&show_icons=true)](https://github.com/barbara-liao/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-liao&theme=calm&layout=compact)](https://github.com/barbara-liao/github-readme-stats)
