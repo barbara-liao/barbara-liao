@@ -10,6 +10,9 @@ I know JavaScript (ES5 & ES6), React.js, PostgreSQL, Node.js, HTML5, CSS3 and mo
 
 Connect with me on LinkedIn [here](www.linkedin.com/in/barbara-liao)!
 
+[![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=barbara-liao)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **barbara-liao/barbara-liao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
