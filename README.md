@@ -1,6 +1,6 @@
 ## Hello there! I'm Barbara :sparkles:
 
-I'm a software engineer (former accountant) with a passion for programming :computer:, creating :art:, baking :cookie: and Muay Thai :boxing_glove:. I enjoy the process of building and bettering things and seeing the final outcome. 
+I'm a software engineer (former accountant) with a passion for programming :computer:, creating :art:, baking :cookie: and Muay Thai :boxing_glove:. I thoroughly enjoy problem solving and being able to express myself by building my ideas out. 
 
 
 [![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=barbara-liao&theme=calm&hide=stars,contribs&show_icons=true)](https://github.com/barbara-liao/github-readme-stats)
