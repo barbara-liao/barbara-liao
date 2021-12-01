@@ -15,7 +15,7 @@ I know JavaScript (ES5 & ES6), React.js, PostgreSQL, Node.js, HTML5, CSS3 and mo
 
 ## :love_letter: Let's Connect
 
-Connect with me on LinkedIn [here](www.linkedin.com/in/barbara-liao)!
+Connect with me on LinkedIn [here](https://www.linkedin.com/in/barbara-liao/)!
 
 
 <!--
