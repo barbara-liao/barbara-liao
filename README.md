@@ -8,7 +8,7 @@ I'm a software engineer (former accountant) with a passion for programming :comp
 
 ## :computer: Skills
 
-I know JavaScript (ES5 & ES6), React.js, PostgreSQL, Node.js, HTML5, CSS3 and more and am always looking to expand my skill set.
+I know JavaScript (ES5 & ES6), React.js, PostgreSQL, Node.js, HTML5, CSS3, Express.js and more and am always looking to expand my skill set.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-liao&theme=calm&layout=compact)](https://github.com/barbara-liao/github-readme-stats)
 
